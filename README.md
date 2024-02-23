@@ -1,1 +1,1 @@
-This repository provides a simple example of how to use multiprocessing in Python to execute tasks concurrently across multiple processes.
+This repository provides a simple example of how to use multiprocessing in Python to execute tasks concurrently across multiple processes. Multiprocessing is a technique used to leverage the computational power of modern CPUs by dividing tasks among multiple processes, thereby reducing overall execution time.
